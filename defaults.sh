@@ -34,3 +34,7 @@ defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool false
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool false
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool false
+
+# Set Hookshots almostMaximize values
+defaults write com.knollsoft.Hookshot almostMaximizeHeight -float .95
+defaults write com.knollsoft.Hookshot almostMaximizeWidth -float .95
