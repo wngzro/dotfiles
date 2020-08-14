@@ -19,7 +19,6 @@ mas "Pixelmator Pro", id: 1289583905
 cask "daisydisk"
 cask "discord"
 cask "firefox"
-cask "fujifilm-x-acquire"
 cask "hookshot"
 cask "iina"
 cask "mos"
