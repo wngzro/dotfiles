@@ -16,13 +16,13 @@ mas "Things", id: 904280696
 mas "Pixelmator Pro", id: 1289583905
 
 # Standalone installs
+cask "mullvadvpn"
 cask "daisydisk"
 cask "discord"
 cask "firefox"
 cask "hookshot"
 cask "iina"
 cask "mos"
-cask "mullvadvpn"
 cask "plex-media-server"
 cask "sensiblesidebuttons"
 cask "soundsource"
