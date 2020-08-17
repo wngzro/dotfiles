@@ -8,4 +8,4 @@ ln -s ~/.dotfiles/.Brewfile ~
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 # Run Brewfile
-brew bundle install
+brew bundle install --global
