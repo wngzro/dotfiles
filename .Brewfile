@@ -1,6 +1,9 @@
 # Homebrew installs
 brew "python"
+brew "ruby"
 brew "ffmpeg"
+brew "mkvtoolnix"
+brew "mpv"
 brew "mas"
 
 # Mac App Store installs
