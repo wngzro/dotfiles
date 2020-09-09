@@ -4,6 +4,7 @@ brew "ruby"
 brew "ffmpeg"
 brew "mkvtoolnix"
 brew "mpv"
+brew "neofetch"
 brew "mas"
 
 # Mac App Store installs
