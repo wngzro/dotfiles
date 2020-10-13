@@ -8,3 +8,4 @@ alias ls='ls -lAh'
 
 alias dlos='python3 ~/Developer/Comet/download_os.py'
 alias cid='python3 ~/Developer/Comet/create_install_media.py'
+alias latest='python3 ~/Developer/Asteroid/asteroid.py'
