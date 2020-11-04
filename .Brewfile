@@ -6,6 +6,7 @@ brew "mkvtoolnix"
 brew "mpv"
 brew "neofetch"
 brew "mas"
+brew "speedtest-cli"
 
 # Mac App Store installs
 mas "1Blocker", id: 1107421413
