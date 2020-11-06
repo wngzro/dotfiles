@@ -4,7 +4,7 @@ alias reload='source ~/.dotfiles/.zshrc'
 alias temps='sudo powermetrics -n 5 -s smc | grep "CPU die"'
 alias fans='sudo powermetrics -n 5 -s smc | grep "Fan"'
 alias updateOS='sudo softwareupdate -iaR'
-alias updateApps='brew bundle install --global'
+alias updateApps='brew cu -a'
 alias ls='ls -lAh'
 
 alias dlos='python3 ~/Developer/Comet/download_os.py'
