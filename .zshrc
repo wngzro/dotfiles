@@ -7,6 +7,6 @@ alias updateOS='sudo softwareupdate -iaR'
 alias updateApps='brew cu -a'
 alias ls='ls -lAh'
 
-alias dlos='python3 ~/Developer/Comet/download_os.py'
-alias cid='python3 ~/Developer/Comet/create_install_media.py'
+alias dlos='python3 ~/Developer/Comet/main.py -d'
+alias cid='python3 ~/Developer/Comet/main.py -i'
 alias latest='python3 ~/Developer/Asteroid/asteroid.py'
