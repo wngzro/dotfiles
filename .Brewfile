@@ -15,7 +15,8 @@ brew tap buo/cask-upgrade
 mas "1Blocker", id: 1107421413
 mas "1Password", id:1333542190
 mas "Bear", id: 1091189122
-mac "Darkroom", id: 953286746
+mas "Darkroom", id: 953286746
+mas "Deliveries", id: 290986013
 mas "Fantastical", id: 975937182
 mas "Final Cut Pro", id: 424389933
 mas "Fission", id: 549251391
