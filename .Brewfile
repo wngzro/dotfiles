@@ -1,12 +1,11 @@
 # Homebrew package installs
 brew "ffmpeg"
 brew "mas"
-brew "mkvtoolnix"
-brew "mpv"
 brew "python"
-brew "ruby"
 brew "speedtest-cli"
+brew "starship"
 brew "wget"
+brew "zsh-autosuggestions"
 
 # Taps
 brew tap buo/cask-upgrade
