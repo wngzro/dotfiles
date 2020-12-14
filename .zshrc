@@ -14,5 +14,7 @@ alias latest='python3 ~/Developer/Asteroid/asteroid.py'
 
 alias nvidia='cd ~/Developer/streetmerchant && npm run start'
 
+bindkey '^[[Z'   forward-char
+
 eval "$(starship init zsh)"
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
