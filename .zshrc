@@ -19,6 +19,6 @@ alias home='cd ~'
 
 alias dlos='python3 ~/Developer/Comet/main.py -d'
 alias cid='python3 ~/Developer/Comet/main.py -i'
-alias latest='python3 ~/Developer/Asteroid/asteroid.py'
+alias latest='python3 ~/Developer/Asteroid/main.py'
 
 alias nvidia='cd ~/Developer/streetmerchant && npm run start'

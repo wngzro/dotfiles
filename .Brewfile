@@ -1,6 +1,7 @@
 # Homebrew package installs
 brew "ffmpeg"
 brew "mas"
+brew "mediainfo"
 brew "python"
 brew "speedtest-cli"
 brew "starship"
