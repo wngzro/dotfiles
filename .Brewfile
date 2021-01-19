@@ -2,6 +2,7 @@
 brew "ffmpeg"
 brew "mas"
 brew "mediainfo"
+brew "mkvtoolnix"
 brew "python"
 brew "speedtest-cli"
 brew "starship"
@@ -26,14 +27,18 @@ mas "The Unarchiver", id: 425424353
 mas "Things", id: 904280696
 
 # Standalone installs
+casl "adoptopenjdk"
 cask "alfred"
 cask "daisydisk"
 cask "discord"
 cask "firefox"
+cask "handbrake"
 cask "hookshot"
 cask "iina"
+cask "makemkv"
 cask "mos"
 cask "mullvadvpn"
+cask "plex-media-server"
 cask "sensiblesidebuttons"
 cask "soundsource"
 cask "sublime-text"
