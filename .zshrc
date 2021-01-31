@@ -13,7 +13,7 @@ alias reload='source ~/.dotfiles/.zshrc'
 alias temps='sudo powermetrics -n 5 -s smc | grep "CPU die"'
 alias fans='sudo powermetrics -n 5 -s smc | grep "Fan"'
 alias updateOS='sudo softwareupdate -iaR'
-alias updateApps='brew cu'
+alias updateApps='brew upgrade --cask'
 alias lsl='ls -lAhG'
 alias home='cd ~'
 
