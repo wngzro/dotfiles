@@ -1,5 +1,5 @@
 # Set up PATH
-export PATH="/usr/local/sbin:$PATH
+export PATH=/usr/local/sbin:$PATH
 
 # Set up ZSH
 eval "$(starship init zsh)"
