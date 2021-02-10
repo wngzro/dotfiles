@@ -1,5 +1,5 @@
 # Set up PATH
-echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
+export PATH="/usr/local/sbin:$PATH
 
 # Set up ZSH
 eval "$(starship init zsh)"
@@ -22,4 +22,3 @@ alias cid='python3 ~/Developer/Comet/main.py -i'
 alias latest='python3 ~/Developer/Asteroid/main.py'
 
 alias nvidia='cd ~/Developer/streetmerchant && npm run start'
-export PATH="/usr/local/sbin:$PATH"
