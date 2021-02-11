@@ -1,4 +1,4 @@
-#! /usr/bin/env bash
+#!/bin/zsh
 
 # Setup symlinks for dotfiles
 ln -s ~/.dotfiles/.zshrc ~

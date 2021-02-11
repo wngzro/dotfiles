@@ -1,4 +1,4 @@
-#! /usr/bin/env bash
+#!/bin/zsh
 
 # System Preferences > Dock > Minimize windows using > Scale Effect
 defaults write com.apple.dock mineffect -string "scale"
