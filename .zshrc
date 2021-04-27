@@ -7,9 +7,7 @@ alias updateOS='sudo softwareupdate -iaR'
 alias updateApps='brew upgrade --cask'
 alias lsl='ls -lAhG'
 alias home='cd ~'
-alias latest='python3 ~/Developer/Asteroid/main.py'
 alias mux='~/Developer/stardust/mkvmux.sh'
-
 
 # Set up PATH
 export PATH=/usr/local/sbin:$PATH
