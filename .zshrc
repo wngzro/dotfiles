@@ -9,8 +9,8 @@ alias lsl='ls -lAhG'
 alias home='cd ~'
 alias mux='~/Developer/stardust/mkvmux.sh'
 
-# Set up PATH
-export PATH=/usr/local/sbin:$PATH
+# Set up PATH for Homebrew
+export PATH=/usr/local/sbin:/usr/local/opt/ruby/bin:$PATH
 
 # Set up ZSH
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
