@@ -11,9 +11,11 @@ brew "zsh-autosuggestions"
 # Standalone installs
 cask "adoptopenjdk"
 cask "alfred"
+cask "bbedit"
 cask "daisydisk"
 cask "discord"
 cask "firefox"
+cask "fission"
 cask "handbrake"
 cask "hookshot"
 cask "iina"
@@ -34,7 +36,6 @@ mas "Darkroom", id: 953286746
 mas "Deliveries", id: 290986013
 mas "Fantastical", id: 975937182
 mas "Final Cut Pro", id: 424389933
-mas "Fission", id: 549251391
 mas "MediaInfo", id: 510620098
 mas "Pixelmator Pro", id: 1289583905
 mas "Tot", id: 1491071483
