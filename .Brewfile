@@ -2,14 +2,11 @@
 brew "ffmpeg"
 brew "mas"
 brew "mediainfo"
-brew "python@3.8"
-brew "ruby"
 brew "starship"
 brew "wget"
 brew "zsh-autosuggestions"
 
 # Standalone installs
-cask "adoptopenjdk"
 cask "alfred"
 cask "bbedit"
 cask "daisydisk"
