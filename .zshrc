@@ -5,7 +5,7 @@ alias updateOS='sudo softwareupdate -iaR'
 alias updateApps='brew upgrade --cask'
 alias lsl='ls -lAhG'
 alias home='cd ~'
-alias mux='~/Developer/stardust/mkvmux.sh'
+alias mux='~/Developer/stardust/mux.sh'
 
 # Set up PATH for Homebrew
 export PATH=/opt/homebrew/bin:/opt/homebrew/sbin:$PATH
